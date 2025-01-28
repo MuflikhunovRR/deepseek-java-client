@@ -48,4 +48,4 @@ SLF4J and Logback for excellent logging.
 Maven/Gradle for dependency management and project builds.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) for any inquiries or collaborations.
+[Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/romanmuf/)
