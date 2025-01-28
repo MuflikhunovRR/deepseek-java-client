@@ -50,7 +50,8 @@ Maven/Gradle for dependency management and project builds.
 
 ## Open to new opportunities in the US! 🇺🇸
 
-I’m seeking ** SDET / Lead QA / QA Automation ** roles and I have **work authorization**. Let's connect on LinkedIn: [Roman Muf's LinkedIn](https://www.linkedin.com/in/romanmuf/)
+I’m seeking ** SDET / Lead QA / QA Automation ** roles and I have **work authorization**.
+Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/romanmuf/)
 
 ### Key Skills & Interests:
 - **QA Automation** | **SDET** | **AI** | **Machine Learning** | **Test Automation**  
