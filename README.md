@@ -12,25 +12,6 @@ This is a Java client library for interacting with the DeepSeek API, providing f
 - Java 17 or higher
 - Maven or Gradle (for managing dependencies)
 
-## Setup
-
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/deepseek-java-client.git
-    cd deepseek-java-client
-    ```
-
-2. Build the project:
-    - Using **Maven**:
-      ```bash
-      mvn clean install
-      ```
-
-4. Run the example:
-    ```bash
-    mvn exec:java -Dexec.mainClass="us.hubpro.Example"
-    ```
-
 ## Code Example
 
 The following code demonstrates how to use the `DeepSeekClient` to send a chat request and handle the response:
