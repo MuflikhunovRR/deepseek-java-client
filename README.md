@@ -47,5 +47,13 @@ DeepSeek API for providing the powerful language models.
 SLF4J and Logback for excellent logging.
 Maven/Gradle for dependency management and project builds.
 
-## Contact
-[Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/romanmuf/)
+
+## Open to new opportunities in the US! 🇺🇸
+
+I’m seeking ** SDET / Lead QA / QA Automation ** roles and I have **work authorization**. Let's connect on LinkedIn: [Roman Muf's LinkedIn](https://www.linkedin.com/in/romanmuf/)
+
+### Key Skills & Interests:
+- **QA Automation** | **SDET** | **AI** | **Machine Learning** | **Test Automation**  
+- **Java** | **Selenium** | **Python** | **Postman** | **Jenkins** | **RestAssured** | **SQL** | **Pytest**  
+- Passionate about leveraging **AI** and **ML** in test automation and quality assurance.
+
